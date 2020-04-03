@@ -13,6 +13,8 @@ mean_exam_points
 
 The evaluation metric is Coefficient of determination
 
+##### https://www.kaggle.com/c/tutors-expected-math-exam-results
+
 
 
 
